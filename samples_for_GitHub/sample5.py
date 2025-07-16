@@ -1,0 +1,9 @@
+print('khorshid')
+print('saeed')
+
+print('saeed')
+print('saeed')
+print('saeed')
+
+print('mina')
+
